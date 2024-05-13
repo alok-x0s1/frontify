@@ -14,7 +14,7 @@ const Footer = () => {
                             </div>
                             <div>
                                 <p className="text-sm text-gray-600">
-                                    &copy; Copyright 2023. All Rights Reserved by DevUI.
+                                    &copy; Copyright 2023. All Rights Reserved. in ❤️ with <span><a href="https://github.com/alok-x0s1" className='hover:underline text-black' target='_blank'>@lokYadav</a></span>
                                 </p>
                             </div>
                         </div>
